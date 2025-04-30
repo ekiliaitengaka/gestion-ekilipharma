@@ -45,5 +45,45 @@
         <li> Contribuer activement à l'amélioration de la santé publique dans notre communauté </li>
       <ul>
     </nav>
+
+       <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="image/Screenshot_20250418-201611_1.png" rel="icon"/> 
+	<title>bienvenue dans notre site de gestion de vente de medicament En ligne</title>
+	<link rel="stylesheet" href="styles/styles.css">
+
+</head>
+<body>
+	<header>
+	<img src="image/Screenshot_20250418-201611_1.png">
+	<h1>Medicamentvotre choix</h1>
+	 <nav>
+     <ul>
+        <li><a href="Accueil.html">Accueil</a></li>
+        <li><a href="image.html">image</a></li>
+        <li><a href="identification.html">identification</a></li>
+        </ul>
+        </nav> 
+       
+</header>
+<h2>presentation des image de notre medicament</h2>
+<p>bienvenue dans notre page image votre image est toujours disponible pour votre choix, de comande que vous voulez il y a plusieurs sorte de image que on vous mettre ici alors, ci vous remarquer que sertaine image que vous ne avez pas veillez nous contacter merci pour votre attention</p> 
+	<h2>voici les image des notre medicament</h2>
+	<img src="image/Screenshot_20250418-191157_1.png">
+	<img src="image/Screenshot_20250418-191216_2.png">
+	<img src="image/Screenshot_20250418-191204_2.png">
+	<img src="image/Screenshot_20250418-201611_1.png">
+	<img src="image/Screenshot_20250418-201621_1.png">
+	<img src="image/Screenshot_20250418-191204_1.png">
+	<img src="image/Screenshot_20250418-191216_3.png">
+	<img src="image/Screenshot_20250418-201713_1.png">
+	<img src="image/Screenshot_20250418-201733_1.png">
+	<img src="image/Screenshot_20250418-201733_2.png">
+	<img src="image/Screenshot_20250418-201525_1.png">
+	<img src="image/Screenshot_20250418-191223_4.png">
+	
 </body>
 </html>
