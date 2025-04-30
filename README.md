@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>EKILIPHARMA avec menu</title>
+	<link rel="stylesheet" href="styles/styles.css"> 
+</head>
+<body>
+<header>
+	   <h1>Bienvenue sur mon site</h1>
+      <img src="image/Screenshot_20250429-210755.png" alt="image image/Screenshot_20250429-210755" width="=300"> 
+        <nav>
+     <ul>
+        <li><a href="Accueil.html">Accueil</a></li>
+        <li><a href="image.html">image</a></li>
+        <li><a href="identification.html">identification</a></li>
+        </ul>
+        </nav> 
+       <style type="text/css"> 
+    /*ceci est un commentaire */
+    p{
+    
+      font-size: 20px;
+   }
+   </style>
+</header>
+
+<h2>Presentation des notre Pharmacie</h2>
+<p>Votre santé est notre priorité. Découvrez une large gamme de produits pharmaceutiques de qualité, un service attentionné et des conseils de professionnels à votre écoute. Merci de votre confiance</p>
+<p>Notre site web de gestion de vente de medicament enligne, notre site de medicament est magnific, car nous avons toute sorte de medicament dans notre site web, comme : les medicament a comprimer, injectable,et les medicament en liquide Etc...</p>
+<p>nous avons plusieur sortes de medicament qu on'est même pas siter, mais nous avons toutes sortes de medicament de vot choix qui peut vous aider dans votre santé; et qui vous permettra aussi de garature votre santé que vous voullez preparer de votre choix.</p>
+<p>il y a d'autres medicament qu'on a pas citez vous allez visiter dans la page des image ou video et vous allez faire choix de votre medicament que vous voullez acheter; il y a aussi d'autre medicament que vous ne connaissez pas vous pouvez nous contacter pour vous expliquer comment vous allez utiliser notre medicament. contacter nous avec cette numéro <a href="0823778375">0841447210</a></li>  </p>
+
+
+<p> voici le lien pour faire votre enregistrement enligne pour passer votre commande medicament remplicer toute les formaliter de champs pour S'inscrir.<a href="Inscription.html">S'inscrire Ici</a></li> 
+
+<p>Nos objectifs chez EKIPHARMA</p>
+
+<nav>
+      <ol>
+        <li> Offrir des produits pharmaceutiques sûrs, efficaces et accessibles à tous</li>
+        <li> Garantir un service rapide, professionnel et à l’écoute de chaque client</li>
+        <li> Promouvoir la santé et le bien-être à travers des conseils personnalisés et un accompagnement de qualité</li>
+        <li> Contribuer activement à l'amélioration de la santé publique dans notre communauté </li>
+      <ul>
+    </nav>
+</body>
+</html>
